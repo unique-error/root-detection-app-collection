@@ -11,8 +11,6 @@
 
 This repository contains a curated list of applications useful for detecting **Root / Xposed / Custom ROM / Bootloader Unlock / SafetyNet / Play Integrity** status on Android devices.  
 
-PRs are always welcome! 🚀  
-
 ---
 
 ## 📑 Table of Contents
