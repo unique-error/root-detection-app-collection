@@ -82,4 +82,5 @@ Without their projects, this collection wouldn’t exist 🙏
 
 ---
 
-👨‍💻 Maintained by **Unique-error**
+ <p align="center">
+  👨‍💻Made with 💙 by <b>unique-error</b>
