@@ -58,15 +58,20 @@ PRs are always welcome! 🚀
 ---
 
 ## 🙌 Credits
-Special thanks to the original developers and contributors of the listed apps:  
-- **vvb2060** → [Android Key Attestation](https://github.com/vvb2060/KeyAttestation)  
-- **AkaneTan** → [Checker](https://github.com/AkaneTan/Checker)  
-- **rushiranpise** → [Hunter, Memory Detector](https://github.com/rushiranpise/detection)  
-- **xiaorun** → [Ruru](https://github.com/byxiaorun/Ruru)  
-- **RabahX** → [Securify](https://github.com/RabahX/Securify)  
-- **krypton** → [TB Checker](https://play.google.com/store/apps/details?id=krypton.tbsafetychecker)  
-- **Magisk Alpha Team** → [Momo](https://t.me/magiskalpha)  
-- Other tool creators (DrHowdyDoo, GoDevelopers, etc.)
+Special thanks to the original developers and contributors of the listed apps:
+
+- **vvb2060** → [Android Key Attestation Sample App](https://github.com/vvb2060/KeyAttestation/releases)
+- **AkaneTan** → [Checker](https://github.com/AkaneTan/Checker/releases)
+- **rushiranpise** → [Hunter](https://github.com/rushiranpise/detection), [Memory Detector](https://github.com/rushiranpise/detection)
+- **Magisk Alpha Team** → [Momo](https://t.me/magiskalpha/529)
+- **xiaorun** → [Ruru](https://github.com/byxiaorun/Ruru/releases)
+- **RabahX** → [Securify](https://github.com/RabahX/Securify/)
+- **krypton** → [TB Checker](https://play.google.com/store/apps/details?id=krypton.tbsafetychecker)
+- **AndroidFung** → [DRM Info](https://play.google.com/store/apps/details?id=com.androidfung.drminfo)
+- **DrHowdyDoo** → [DrHowdyDoo](https://play.google.com/store/apps/developer?id=DrHowdyDoo)
+- **CDAC** → [M-Kavach 2](https://play.google.com/store/apps/details?id=org.cdac.updatemkavach)
+- **GoDevelopers** → [Smali Detector](https://play.google.com/store/apps/details?id=com.godevelopers.SmaliDetector), [Xposed Detector](https://play.google.com/store/apps/details?id=com.godevelopers.XposedChecker)
+
 
 Without their projects, this collection wouldn’t exist 🙏  
 
