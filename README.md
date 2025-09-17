@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Root Detection App Collection Banner" width="100%" />
+</p>
+
 # 📱 Collection of Root Detection & Security Check Apps for Android
 
 [![Stars](https://img.shields.io/github/stars/Unique-error/root-detection-apps?style=flat&color=yellow)](https://github.com/Unique-error/root-detection-apps/stargazers)
