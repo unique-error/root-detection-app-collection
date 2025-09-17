@@ -1,25 +1,42 @@
-# 📱 Root Detection Apps Collection
+# 📱 Collection of Root Detection & Security Check Apps for Android
 
-This repository contains a collection of **root detection apps** for Android.  
-PRs are always welcome!
+[![Stars](https://img.shields.io/github/stars/Unique-error/root-detection-apps?style=flat&color=yellow)](https://github.com/Unique-error/root-detection-apps/stargazers)
+[![Forks](https://img.shields.io/github/forks/Unique-error/root-detection-apps?style=flat&color=orange)](https://github.com/Unique-error/root-detection-apps/network/members)
+[![License](https://img.shields.io/github/license/Unique-error/root-detection-apps?style=flat&color=blue)](./LICENSE)
+[![Maintainer](https://img.shields.io/badge/maintainer-Unique--error-green)](https://github.com/Unique-error)
+
+This repository contains a curated list of applications useful for detecting **Root / Xposed / Custom ROM / Bootloader Unlock / SafetyNet / Play Integrity** status on Android devices.  
+
+PRs are always welcome! 🚀  
 
 ---
 
-## 🔹 Root / Xposed / ROM / Bootloader / SafetyNet / Play Integrity
+## 📑 Table of Contents
+- [Root / XPosed / ROM / Bootloader / SafetyNet / Play Integrity](#-root--xposed--rom--bootloader--safetynet--play-integrity)
+- [Banking Apps (Detection Examples)](#-banking-apps-detection-examples)
+- [Miscellaneous Tools](#-miscellaneous-tools)
+- [Credits](#-credits)
+- [Notes](#-notes)
+
+---
+
+## 🔑 Root / XPosed / ROM / Bootloader / SafetyNet / Play Integrity
 - [Android Key Attestation Sample App](https://github.com/vvb2060/KeyAttestation/releases) (Bootloader)
 - [Checker](https://github.com/AkaneTan/Checker/releases) (ROM)
+- [Hunter](https://github.com/unique-error/root-detection-app-collection/blob/main/Hunter_5.5.0.apk) (Root, ROM)  
+  [![Download Hunter](https://img.shields.io/badge/download-Hunter.apk-red?style=flat&logo=android)](https://github.com/unique-error/root-detection-app-collection/blob/main/Hunter_5.5.0.apk)
+- [Memory Detector](https://github.com/unique-error/root-detection-app-collection/blob/main/MemoryDetector_2.1.0.apk) (Root)  
+  [![Download MemoryDetector](https://img.shields.io/badge/download-MemoryDetector.apk-green?style=flat&logo=android)](https://github.com/unique-error/root-detection-app-collection/blob/main/MemoryDetector_2.1.0.apk)
 - [Momo](https://t.me/magiskalpha/529) (Root, ROM)
 - [Native Detector](https://t.me/reveny1)
 - [Native Test](https://t.me/nullptr_dev) (Search on Channel)
 - [Ruru](https://github.com/byxiaorun/Ruru/releases) (Root, XPosed)
 - [Securify](https://github.com/RabahX/Securify/) (Root)
 - [TB Checker](https://play.google.com/store/apps/details?id=krypton.tbsafetychecker) (Root, XPosed, Play Integrity, SafetyNet)
-- [Hunter](root/Hunter.apk) (Root, ROM)
-- [Memory Detector](root/MemoryDetector.apk) (Root)
 
 ---
 
-## 🔹 Banking Apps
+## 🏦 Banking Apps (Detection Examples)
 - [Blind](https://play.google.com/store/apps/details?id=com.teamblind.blind)
 - [BPI](https://play.google.com/store/apps/details?id=com.bpi.ng.app)
 - [Livin' by Mandiri](https://play.google.com/store/apps/details?id=id.bmri.livin)
@@ -31,13 +48,7 @@ PRs are always welcome!
 
 ---
 
-## 🔹 Games
-- [Rumble Heros: Adventure RPG](https://play.google.com/store/apps/details?id=com.playhardlab.heroes)
-- [8 Ball Pool](https://play.google.com/store/apps/details?id=com.miniclip.eightballpool)
-
----
-
-## 🔹 Miscellaneous
+## 🛠 Miscellaneous Tools
 - [DRM Info](https://play.google.com/store/apps/details?id=com.androidfung.drminfo)
 - [DrHowdyDoo](https://play.google.com/store/apps/developer?id=DrHowdyDoo)
 - [M-Kavach 2](https://play.google.com/store/apps/details?id=org.cdac.updatemkavach)
@@ -47,9 +58,25 @@ PRs are always welcome!
 ---
 
 ## 🙌 Credits
-- [vvb2060](https://github.com/vvb2060) for **Key Attestation**
-- [AkaneTan](https://github.com/AkaneTan) for **Checker**
-- [rushiranpise](https://github.com/rushiranpise) for **Hunter** and **Memory Detector**
-- [byxiaorun](https://github.com/byxiaorun) for **Ruru**
-- [RabahX](https://github.com/RabahX) for **Securify**
-- Other respective developers for their amazing work
+Special thanks to the original developers and contributors of the listed apps:  
+- **vvb2060** → [Android Key Attestation](https://github.com/vvb2060/KeyAttestation)  
+- **AkaneTan** → [Checker](https://github.com/AkaneTan/Checker)  
+- **rushiranpise** → [Hunter, Memory Detector](https://github.com/rushiranpise/detection)  
+- **xiaorun** → [Ruru](https://github.com/byxiaorun/Ruru)  
+- **RabahX** → [Securify](https://github.com/RabahX/Securify)  
+- **krypton** → [TB Checker](https://play.google.com/store/apps/details?id=krypton.tbsafetychecker)  
+- **Magisk Alpha Team** → [Momo](https://t.me/magiskalpha)  
+- Other tool creators (DrHowdyDoo, GoDevelopers, etc.)
+
+Without their projects, this collection wouldn’t exist 🙏  
+
+---
+
+## 📌 Notes
+- `Hunter.apk` and `MemoryDetector.apk` are directly hosted in this repository with versioned filenames.  
+- Use these apps **only for testing and educational purposes.**  
+- Banking apps listed here are for **detection reference only.**  
+
+---
+
+👨‍💻 Maintained by **Unique-error**
