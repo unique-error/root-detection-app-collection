@@ -6,7 +6,7 @@
 
 [![Stars](https://img.shields.io/github/stars/Unique-error/root-detection-app-collection?style=flat&color=yellow)](https://github.com/Unique-error/root-detection-app-collection/stargazers)
 [![Forks](https://img.shields.io/github/forks/Unique-error/root-detection-app-collection?style=flat&color=orange)](https://github.com/Unique-error/root-detection-app-collection/network/members)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/github/license/Unique-error/root-detection-app-collection?style=flat&color=blue)](LICENSE)
 [![Maintainer](https://img.shields.io/badge/maintainer-Unique--error-green)](https://github.com/Unique-error)
 
 This repository contains a curated list of applications useful for detecting **Root / Xposed / Custom ROM / Bootloader Unlock / SafetyNet / Play Integrity** status on Android devices.  
